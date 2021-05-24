@@ -1,5 +1,5 @@
 # Udacity-Projects
 
-Hi everyone, this my personal professional Projects faced through Udacity courses!
+Hi everyone, this is my personal professional Projects faced through Udacity courses!
 
 Enjoy that...
